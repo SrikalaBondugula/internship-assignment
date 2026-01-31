@@ -504,3 +504,4 @@ INSERT INTO restaurants VALUES (497, 'Restaurant_497', 'Mexican', 4.4);
 INSERT INTO restaurants VALUES (498, 'Restaurant_498', 'Chinese', 3.9);
 INSERT INTO restaurants VALUES (499, 'Restaurant_499', 'Mexican', 4.9);
 INSERT INTO restaurants VALUES (500, 'Restaurant_500', 'Chinese', 3.2);
+
